@@ -1,0 +1,23 @@
+overlay weaverをp2p live streaming でやるのは難しいかも
+        一応やっている論文はある
+        Resilient Suppressor Mechanism against Illegal Content Redistribution on Peer-to-Peer Video Sharing Networks
+                  livestreamingではなくvideo sharing
+
+OMNeT++ Simulator, INET and OverSim Framework
+
+来週の進捗
+        とんがりのやつ
+        研究計画書
+        シミュレーションいろいろ
+        ダイジェストのためのユーザ数をP2Pネットワーク構築にも
+        ニコ生のアクティブを使える
+                実際の映像ではどうか
+        輪講の論文何読むか
+
+来週までに（進捗までに）
+        ハンドアウト
+        発表資料
+
+        実際の動画でやる
+                これを発表資料に入れる
+                これがないバージョンを１４日（水）までに
